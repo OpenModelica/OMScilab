@@ -1,0 +1,2 @@
+# OMScilab
+OpenModelica Scilab interface
